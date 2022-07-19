@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={timeis2020})](https://solved.ac/{timeis2020})
+[![Solved.acProfile](http://mazassumnida.wtf/api/v2/generate_badge?boj=paul9915)](https://solved.ac/paul9915)
 
 <!--
 **wlwhs/wlwhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
